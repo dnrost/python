@@ -1,0 +1,19 @@
+Quantidade de linhas no inicio do processamento: 699
+#### tratamento de dados ausentes ####
+
+Soma de dados ausentes por coluna:
+Sample code number             0
+Clump Thickness                0
+Uniformity of Cell Size        0
+Uniformity of Cell Shape       0
+Marginal Adhesion              0
+Single Epithelial Cell Size    0
+Bare Nuclei                    0
+Bland Chromatin                0
+Normal Nucleoli                0
+Mitoses                        0
+Class                          0
+dtype: int64
+
+#### tratamento de dados duplicados ####
+Quantidade de linhas no final do processamento: 691
